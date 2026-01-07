@@ -1,0 +1,14 @@
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\bin\Debug\net10.0\dz4129u8uj981.exe
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\bin\Debug\net10.0\dz4129u8uj981.deps.json
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\bin\Debug\net10.0\dz4129u8uj981.runtimeconfig.json
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\bin\Debug\net10.0\dz4129u8uj981.dll
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\bin\Debug\net10.0\dz4129u8uj981.pdb
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\dz4129u8uj981.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\dz4129u8uj981.AssemblyInfoInputs.cache
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\dz4129u8uj981.AssemblyInfo.cs
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\dz4129u8uj981.csproj.CoreCompileInputs.cache
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\dz4129u8uj981.dll
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\refint\dz4129u8uj981.dll
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\dz4129u8uj981.pdb
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\dz4129u8uj981.genruntimeconfig.cache
+C:\Users\ktooo\source\repos\dz4129u8uj981\dz4129u8uj981\obj\Debug\net10.0\ref\dz4129u8uj981.dll
